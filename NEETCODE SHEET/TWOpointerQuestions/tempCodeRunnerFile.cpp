@@ -1,0 +1,2 @@
+ // leftpointer++;
+                // rightpointer--;
